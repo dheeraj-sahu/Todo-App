@@ -1,0 +1,6 @@
+<svg width="200" height="200" xmlns="http://www.w3.org/2000/svg">
+  <rect width="200" height="200" fill="#f8f9fa"/>
+  <circle cx="100" cy="100" r="80" fill="#007bff"/>
+  <polyline points="60,110 90,140 140,80" fill="none" stroke="#ffffff" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="100" y="180" font-family="Arial" font-size="24" text-anchor="middle" fill="#333333">TaskApp</text>
+</svg>
